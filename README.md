@@ -10,4 +10,4 @@ Example Output:
 
 Base endpoint is: https://intersight.com/wo/
 
-Additional endpoints: https://docs.turbonomic.com/pdfdocs/Turbonomic_API_PRINT_8.0.0.pdf
+Additional endpoints by appending the turbonomic API: https://docs.turbonomic.com/pdfdocs/Turbonomic_API_PRINT_8.0.0.pdf
